@@ -1,5 +1,5 @@
 body {
-    background-image: url("assets/bg.jpg");
+    background-image: url("/assets/bg.jpg");
     color: var(--text-color); 
     background-color: #000000;
     
